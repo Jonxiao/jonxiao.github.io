@@ -59,6 +59,6 @@ title: 日本之行，我都用了哪些App
 
 [image-1]:	http://sspai.com/attachment/origin/2015/06/09/259848.png "日本 App"
 [image-2]:	http://sspai.com/attachment/origin/2015/06/09/259849.png "蝉游记"
-[image-3]:	http://sspai.com/attachment/origin/2015/06/09/259850.png) "Booking & Airbnb"
+[image-3]:	http://sspai.com/attachment/origin/2015/06/09/259850.png "Booking & Airbnb"
 [image-4]:	http://sspai.com/attachment/origin/2015/06/09/259851.png "NAVITIME Transit"
 [image-5]:	http://sspai.com/attachment/origin/2015/06/09/259852.png "旅行翻译官"
