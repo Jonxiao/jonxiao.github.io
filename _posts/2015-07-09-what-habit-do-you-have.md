@@ -28,4 +28,4 @@ title: 你是否了解你自己……的习惯
 
 
 
-[image-1]:	http://upload-images.jianshu.io/upload_images/22510-e6f1400c38932922.jpg
+[image-1]:	http://7xkbpe.com1.z0.glb.clouddn.com/habit.jpg
